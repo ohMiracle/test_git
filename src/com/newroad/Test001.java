@@ -10,5 +10,7 @@ public class Test001 {
 		System.out.println("code-a");
 		System.out.println("code-b");
 		System.out.println("code-c");
+		System.out.println("code-conflict");
+		System.out.println("code-d");
 	}
 }
